@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Oneil Rodney</h1>
-<h3 align="center">A passionate full stack developer from Connecticut</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer from Connecticut!</h3>
 
-- 💬 Ask me about **SQL, React, JS, Python**
+- 💻 Let's chat about SQL, React, JavaScript, and Python—my toolbox for building awesome things.
 
-- 📫 How to reach me **oneilorodney@gmail.com**
+📫 Drop me a message: oneilorodney@gmail.com 
 
-- ⚡ Fun fact **I enjoy being around water**
+
+🌊 Fun fact: I’m at my happiest when I’m by the water—whether it’s the ocean, a lake, or even a pool. Who’s with me? Let’s make waves and connect!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
